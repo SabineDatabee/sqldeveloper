@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "minima/skins/classic";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
 
 .page-header {
