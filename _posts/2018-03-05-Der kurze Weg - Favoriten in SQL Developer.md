@@ -39,7 +39,7 @@ Will man die Umgebung wechseln, kann man dies im Bericht selbst über die Drop-D
 
 Wie funktioniert das Ganze nun?    
 Der zusätzliche Menüpunkt 'Go to...' wird genau dann generiert, wenn die Spaltenaliase    
-[nbsp][nbsp][nbsp][nbsp]**sdev_link_owner**, **sdev_link_name** und **sdev_link_type**     
+&nbsp;&nbsp;&nbsp;&nbsp;**sdev_link_owner**, **sdev_link_name** und **sdev_link_type**     
 im Statement verwendet werden. Die Spalten mit diesen Aliasen werden selbst nicht im Report angezeigt.
 
 ## Code für den Report zum Kopieren und Anpassen:
