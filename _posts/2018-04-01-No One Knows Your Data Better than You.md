@@ -10,6 +10,7 @@ So how does it work? You might have read about the <a href="http://www.oracle.co
 Now you can - depending on your personal preferences - create optimizers in your favourite language <em>and</em> customise them depending on your application’s specific requirements. Sounds cool, doesn’t it?
 
 <img src="{{site.url}}/sqldeveloper/images/SQL Developer Parse Tree 3.png" style="margin: 15px;"/>
+SQL Statement Parse Tree
 
 
 The basis you can build your optimizer cartridge on is the statement’s parse tree. You can access existing statistics and histograms, gather statistics on the fly, and combine them with different transformations. The standard transformations like join elimination, view merging, subquery unnesting, join predicate pushdown, and join factorization are available via API, so you don’t have to reinvent the wheel. In case of failure the database falls back to the standard cost-based optimizer, so the application doesn’t need to handle an exception. The information about which optimizer has been used can be found in the trace file. Within PL/SQL you can access it after every SQL or DML statement with SQL%OPTIMIZER which returns a string.
