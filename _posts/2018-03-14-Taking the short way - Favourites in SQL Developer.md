@@ -1,4 +1,9 @@
-#
+--- 
+layout: post
+title: Taking the short way: Favourites in SQL Developer
+---
+
+# Taking the short way: Favourites in SQL Developer
 
 <p>How can you navigate <em>quickly</em> to a frequently used object?</p>
 <p>Imagine the following situation:<br>A project with a few development databases, integration databases, and production databases that you would like to check upon from time to time.<br>All of these databases are set up in the same way - same schemas, same objects. A handful of tables and views are being accessed often for maintenance and monitoring: a control table, a config table, a version control table, a few log views. They reside in different schemas.</p>
