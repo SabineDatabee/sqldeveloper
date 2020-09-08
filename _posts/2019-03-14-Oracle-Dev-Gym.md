@@ -1,3 +1,8 @@
+---
+layout: post
+title: Das Oracle Dev Gym
+---
+
 #Trainieren Sie wann und wo Sie wollen – ganz ohne Gebühren und Mindestlaufzeit!
 
 <p><strong>Wie halten <em>Sie</em> eigentlich Ihr Oracle-Wissen frisch, aktuell und verfügbar? Gehen Sie doch einfach ins Fitnessstudio, ins <a href="https://devgym.oracle.com/" target="_blank" rel="noopener">Oracle Dev Gym</a>! Von überall und zu jeder Tageszeit können Sie üben und am sportlichen Wettbewerb teilnehmen. Durch das ständige Training werden Sie besser und bleiben flexibel.</strong></p>
