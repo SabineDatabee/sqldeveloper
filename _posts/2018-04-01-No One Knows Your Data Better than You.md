@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: No One Knows Your Data Better than You (Even in Oracle 18c)  
+---
 # No One Knows Your Data Better than You (Even in Oracle 18c)  
 
 Oracle’s cost based optimizer is an amazingly sophisticated piece of software, but still it manages to confuse us by how it handles some queries. The reason is that usually we still know more about our data than the optimizer does.
