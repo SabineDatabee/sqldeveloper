@@ -5,7 +5,9 @@ title: Der kurze Weg - Favoriten in SQL Developer
 
 ## Das Problem
 <p>Wie kommt man im SQL Developer <em>schnell</em> zu einem bestimmten, oft verwendeten Objekt?</p>
-<img src="{{site.url}}/sqldeveloper/images/ricardo-gomez-angel-520343-unsplash_3-0e2ec18e.png" style="display: block; margin: auto;" />
+<p class="right">
+<img src="{{site.url}}/sqldeveloper/images/ricardo-gomez-angel-520343-unsplash_3-0e2ec18e.png"/>
+</p>
 
 <p>Stellen Sie sich zum Beispiel Folgendes vor:<br>Ein Projekt mit mit diversen Entwicklerdatenbanken, Integrationsdatenbanken und Produktivdatenbanken, auf denen man ab und zu nach dem Rechten sehen will. Alle Datenbanken haben dieselbe Struktur, und es gibt eine Handvoll Tabellen, auf die man immer wieder zugreifen muss, zum Beispiel: eine Steuerungstabelle, eine Konfigurationstabelle, eine Versionskontrolltabelle, mehrere Log-Views. Diese Objekte sind über mehrere Schemas verteilt.</p>
 <p>Der Connection Tree und der Schema Browser sind normalerweise ausreichend, um in der Datenbank zu navigieren, aber gerade für häufig besuchte Objekte summieren sich die Klicks, bis alle Fenster wieder so beisammen hat, wie man sie braucht.</p>
