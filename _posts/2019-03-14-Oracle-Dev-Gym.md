@@ -3,7 +3,7 @@ layout: post
 title: Das Oracle Dev Gym
 ---
 
-#Trainieren Sie wann und wo Sie wollen – ganz ohne Gebühren und Mindestlaufzeit!
+<h2>Trainieren Sie wann und wo Sie wollen – ganz ohne Gebühren und Mindestlaufzeit!</h2>
 
 <p><strong>Wie halten <em>Sie</em> eigentlich Ihr Oracle-Wissen frisch, aktuell und verfügbar? Gehen Sie doch einfach ins Fitnessstudio, ins <a href="https://devgym.oracle.com/" target="_blank" rel="noopener">Oracle Dev Gym</a>! Von überall und zu jeder Tageszeit können Sie üben und am sportlichen Wettbewerb teilnehmen. Durch das ständige Training werden Sie besser und bleiben flexibel.</strong></p>
 <p>Die Anmeldung ist denkbar einfach: Sie brauchen nur Ihren Oracle-Technology-Network-Account<sup>1</sup>. Im persönlichen Bereich können Sie auswählen, ob und zu welchen Themen Sie Info-Mails erhalten möchten. Hier werden auch die Trophäen für die unterschiedlichsten Meilensteine angezeigt – Gamification macht auch vor dem Dev Gym nicht Halt.</p>
