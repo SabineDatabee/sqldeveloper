@@ -1,4 +1,4 @@
 ---
-title: Titel Index
+title: My Oracle SQL Developer Blog
 ---
-# Hurz!
+
