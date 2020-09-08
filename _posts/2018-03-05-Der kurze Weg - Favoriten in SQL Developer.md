@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Der kurze Weg: Favoriten in SQL Developer
+title: Der kurze Weg - Favoriten in SQL Developer
 ---
 
 ## Das Problem
