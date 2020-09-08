@@ -2,7 +2,7 @@ Impressum
 
 mailto:sabine.heimsath@databee.org
 
-Sabine Heimsath</br>
-c/o AutorenServices.de</br>
-Birkenallee 24</br>
+Sabine Heimsath    
+c/o AutorenServices.de    
+Birkenallee 24    
 36037 Fulda 
