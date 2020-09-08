@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Taking the short way: Favourites in SQL Developer
+title: Taking the short way - Favourites in SQL Developer
 ---
 
 # Taking the short way: Favourites in SQL Developer
