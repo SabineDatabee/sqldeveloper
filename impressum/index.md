@@ -7,7 +7,7 @@ Birkenallee 24    <br />
 36037 Fulda <br />
 
 <h2>Kontakt</h2>
-E-Mail: <a href="mailto:sabine.heimsath@databee.org?subject=[SQL Developer Blog]">sabine.heimsath@databee.org</a>
+E-Mail: <a href="mailto:sqldeveloper@databee.org?subject=[SQL Developer Blog]">sqldeveloper@databee.org</a>
 
 <h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV</h2>
 <p>Sabine Heimsath   <br />
