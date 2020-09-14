@@ -10,6 +10,7 @@ So how does it work? You might have read about the <a href="http://www.oracle.co
 Now you can - depending on your personal preferences - create optimizers in your favourite language <em>and</em> customise them depending on your application’s specific requirements. Sounds cool, doesn’t it?
 
 <img src="{{site.url}}/images/SQL Developer Parse Tree 3.png" style="margin: 15px;"/>
+
 SQL Statement Parse Tree
 
 
