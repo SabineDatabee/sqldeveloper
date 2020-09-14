@@ -22,10 +22,10 @@ title: Das Oracle Dev Gym
 </table>
 <p><strong>Kurse</strong></p>
 <p>Zu bestimmten großen Themen werden Kurse angeboten, zum Beispiel „Database for Developers“. Hierbei handelt es sich um einen 12-wöchigen Kurs mit einem wöchentlichen Zeitaufwand von ca. 30 Minuten, der im eigenen Tempo durchlaufen werden kann. Die Kurse bestehen aus Videos und Quiz und werden mit einem Zertifikat belohnt.</p>
-<img src="{{site.url}}/sqldeveloper/images/Screenshot Oracle Dev Gym - Classes.PNG" style="margin: 15px;"/>
+<img src="{{site.url}}/images/Screenshot Oracle Dev Gym - Classes.PNG" style="margin: 15px;"/>
 <p><strong>Wettbewerbe</strong></p>
 <p>Am wöchentlichen Quiz kann man anonym (mit Alias) oder mit Realnamen teilnehmen. Diese Entscheidung ist im Nachhinein aber auch noch änderbar. Neben der Korrektheit der Antworten fließt auch die benötigte Zeit in das Ergebnis mit ein. Am Ende der Woche erhalten Sie eine Mail mit Ihrem Ergebnis und einem Link zu weiteren Details.</p>
-<img src="{{site.url}}/sqldeveloper/images/Screenshot Oracle Dev Gym - Tournaments.PNG" style="margin: 15px;"/>
+<img src="{{site.url}}/images/Screenshot Oracle Dev Gym - Tournaments.PNG" style="margin: 15px;"/>
 <p><strong>Selbst Rätsel einreichen</strong></p>
 <p>Wenn Sie eine spannende Fragestellung haben, die noch nicht behandelt wurde – und davon gibt es im Oracle-Umfeld sicher viele – können Sie auch eigene Fragen einreichen. Der Erstellungsprozess wird durch verschiedene Templates und Hilfetexte unterstützt. Hat man sein Quiz fertiggestellt, wird es zum Review übergeben.</p>
 <p><strong>Fazit</strong></p>
