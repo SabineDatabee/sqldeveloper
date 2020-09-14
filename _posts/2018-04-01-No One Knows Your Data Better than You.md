@@ -9,7 +9,7 @@ But with 18c you get the possibility to leverage these effects with the help of 
 So how does it work? You might have read about the <a href="http://www.oracle.com/technetwork/database/multilingual-engine/documentation/index.html" target="_blank" rel="noopener">Oracle Database Multilingual Engine</a> (MLE). The actual reason MLE was introduced was to enable developers to write their own pluggable optimizer cartridges (POC).    
 Now you can - depending on your personal preferences - create optimizers in your favourite language <em>and</em> customise them depending on your application’s specific requirements. Sounds cool, doesn’t it?
 
-<img src="{{site.url}}/sqldeveloper/images/SQL Developer Parse Tree 3.png" style="margin: 15px;"/>
+<img src="{{site.url}}/images/SQL Developer Parse Tree 3.png" style="margin: 15px;"/>
 SQL Statement Parse Tree
 
 
