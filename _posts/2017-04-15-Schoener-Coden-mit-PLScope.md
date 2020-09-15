@@ -1,5 +1,5 @@
 ---
-title: Artikel zum Thema PL/Scope aus dem DOAG RedStack Magazin
+title: Artikel zum Thema PL/Scope aus dem DOAG RedStack Magazin [DE]
 ---
 
 Ein Artikel, den ich 2017 für das RedStack-Magazin der DOAG geschrieben habe:    
